@@ -22,9 +22,9 @@ const About = () => {
           className="grid md:grid-cols-2 gap-16 items-center mb-20"
         >
           {/* Photo placeholder with gradient border */}
-          <div className="aspect-[6/5] rounded-2xl border border-border gradient-border glow-hover overflow-hidden">
+          <div className="aspect-[5/5] rounded-2xl border border-border gradient-border glow-hover overflow-hidden">
   <img
-    src="/public/AvanishProfile.jpeg"
+    src="/AvanishProfile.jpeg"
     alt="Profile"
     className="w-full h-full object-cover"
   />
